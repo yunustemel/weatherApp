@@ -14,7 +14,7 @@ You will also see any lint errors in the console.
 
 ### `npm test`
 
-The project is tested bx using Cypress Testing tool.
+The project is tested by using Cypress Testing tool.
 
 ### `npm run build`
 
